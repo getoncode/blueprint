@@ -1,10 +1,3 @@
 # blueprint
 Blueprint of getoncode software
-Hello just for testing from faslu;
-
-
-sorry fayis,....
-
-endin
-
-nothing
+This is beta version
